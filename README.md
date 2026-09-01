@@ -1,4 +1,4 @@
-<h1><samp>tony@github:~$ whoami</samp></h1>
+<h1><samp>tony@github:~$ who-am-i</samp></h1>
 
 <samp>
 Math + CS at the University of Michigan 〽️<br>
