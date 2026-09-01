@@ -11,7 +11,7 @@ I like building fast software for hard problems.
 
 <h3><samp>stack</samp></h3>
 
-<img src="https://skillicons.dev/icons?i=rust,python,cpp,js,react,html,css,sqlite,git,linux" alt="Rust, Python, C++, JavaScript, React, HTML, CSS, SQLite, Git, and Linux" />
+<img src="https://skillicons.dev/icons?i=cpp,python,rust,linux,git,js,react,html,css,sqlite" alt="C++, Python, Rust, Linux, Git, JavaScript, React, HTML, CSS, and SQLite" />
 
 <h3><samp>selected work</samp></h3>
 
