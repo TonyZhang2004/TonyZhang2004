@@ -16,6 +16,7 @@ I like building fast software for hard problems.
 
 <h3><samp>selected work</samp></h3>
 
-- [`Phoenix 01`](https://phoenix-01.ellipsislabs.app) — an on-chain prediction market on Solana
+- [`Phoenix 01`](https://phoenix-01.ellipsislabs.app) — an on-chain prediction market on [Solana](https://solana.com/)
 - [`Character Tables of Symmetric Groups`](https://github.com/TonyZhang2004/Character_Table_of_Symmetric_Groups) — computational tools for symmetric-group characters
 - [`schubert-rs`](https://github.com/TonyZhang2004/schubert-rs) — exact Schubert calculus in Rust
+- [`MathematicsNotes`](https://github.com/TonyZhang2004/MathematicsNotes) — some of my math class notes in beautiful $\LaTeX$
