@@ -10,7 +10,7 @@ I like building fast software for hard problems.
 <a href="mailto:guanyuzh@umich.edu"><samp>email</samp></a> ·
 <a href="https://www.linkedin.com/in/tony-guanyu-zhang/"><samp>linkedin</samp></a>
 
-<h3><samp>stack</samp></h3>
+<h3><samp>tech stack</samp></h3>
 
 <img src="https://skillicons.dev/icons?i=cpp,python,rust,linux,git,js,react,html,css,sqlite" alt="C++, Python, Rust, Linux, Git, JavaScript, React, HTML, CSS, and SQLite" />
 
