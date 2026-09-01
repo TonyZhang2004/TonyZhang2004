@@ -2,7 +2,7 @@
 
 <samp>
 Math + Computer Science at the University of Michigan 〽️<br>
-I like building fast software for hard problems.
+I like building fast software to solve hard problems.
 </samp>
 
 <br>
