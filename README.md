@@ -15,7 +15,6 @@ I like building fast software for hard problems.
 
 <h3><samp>selected work</samp></h3>
 
+- [`Phoenix 01`](https://phoenix-01.ellipsislabs.app) — an on-chain prediction market on Solana
 - [`schubert-rs`](https://github.com/TonyZhang2004/schubert-rs) — exact Schubert calculus in Rust
-- [`LanGo`](https://github.com/TonyZhang2004/LanGo) — a language-learning headset built on Raspberry Pi
 - [`Character Tables of Symmetric Groups`](https://github.com/TonyZhang2004/Character_Table_of_Symmetric_Groups) — computational tools for symmetric-group characters
-- [`chomping-glass`](https://github.com/TonyZhang2004/chomping-glass) — an on-chain strategy game on Solana
