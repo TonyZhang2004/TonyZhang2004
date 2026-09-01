@@ -7,7 +7,8 @@ I like building fast software for hard problems.
 
 <br>
 
-<a href="mailto:guanyuzh@umich.edu"><samp>email</samp></a>
+<a href="mailto:guanyuzh@umich.edu"><samp>email</samp></a> ·
+<a href="https://www.linkedin.com/in/tony-guanyu-zhang/"><samp>linkedin</samp></a>
 
 <h3><samp>stack</samp></h3>
 
