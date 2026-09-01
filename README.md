@@ -1,7 +1,7 @@
 <h1><samp>tony@github:~$ whoami</samp></h1>
 
 <samp>
-Math + CS at the University of Michigan.<br>
+Math + CS at the University of Michigan 〽️<br>
 I like building fast software for hard problems.
 </samp>
 
