@@ -1,4 +1,4 @@
-<h1><samp>tony-zhang@github:~$ who-am-i</samp></h1>
+<h1><samp>tony-zhang@github:~$ who am i</samp></h1>
 
 <samp>
 Math + Computer Science at the University of Michigan 〽️<br>
