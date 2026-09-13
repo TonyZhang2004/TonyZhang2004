@@ -17,7 +17,7 @@ I like building fast software to solve hard problems.
 <h3><samp>selected work</samp></h3>
 
 - [`Phoenix 01`](https://phoenix-01.ellipsislabs.app) — an on-chain prediction market on [Solana](https://solana.com/)
-- [`triangle-method`](https://github.com/TonyZhang2004/triangle-method) — an exact prover with visual certificates for ternary homogeneous polynomial inequalities
+- [`triangle-method`](https://github.com/TonyZhang2004/triangle-method) — an algorithmic prover with beautiful visual certificates for ternary homogeneous polynomial inequalities
 - [`Character Tables of Symmetric Groups`](https://github.com/TonyZhang2004/Character_Table_of_Symmetric_Groups) — computational tools for symmetric-group characters
 - [`schubert-rs`](https://github.com/TonyZhang2004/schubert-rs) — exact Schubert calculus in Rust
 - [`MathematicsNotes`](https://github.com/TonyZhang2004/MathematicsNotes) — some of my math class notes in beautiful <img src="./assets/latex-logo.svg?v=black" alt="LaTeX" height="14">
